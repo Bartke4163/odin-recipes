@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(214, 197, 197);
+    font-family:    Helvetica, sans-serif;
+}
+
+.directions-list, .ingredients-list {
+    font-size: 24px;
+    font-size: 20px;
+    background-color: white;
+    text-decoration: underline;
+   
+}
+.recipe-list {
+    font-size: 24px;
+}
+a {
+    text-decoration: none;
+}
+
+
+.ingredients-list{
+    
+    color: rgb(26, 10, 255);
+}
+.directions-list {
+    color: rgb(2, 80, 2);
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+p {
+    font-size: 18px;
+    font-style: italic;
+}
